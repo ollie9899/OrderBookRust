@@ -1,0 +1,3504 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "side": "bid",
+      "price": 10044,
+      "quantity": 48,
+      "timestamp": 1700000000000
+    },
+    {
+      "id": 2,
+      "side": "ask",
+      "price": 10112,
+      "quantity": 15,
+      "timestamp": 1700000000001
+    },
+    {
+      "id": 3,
+      "side": "bid",
+      "price": 9862,
+      "quantity": 7,
+      "timestamp": 1700000000002
+    },
+    {
+      "id": 4,
+      "side": "bid",
+      "price": 9899,
+      "quantity": 28,
+      "timestamp": 1700000000003
+    },
+    {
+      "id": 5,
+      "side": "bid",
+      "price": 10043,
+      "quantity": 6,
+      "timestamp": 1700000000004
+    },
+    {
+      "id": 6,
+      "side": "bid",
+      "price": 9991,
+      "quantity": 33,
+      "timestamp": 1700000000005
+    },
+    {
+      "id": 7,
+      "side": "bid",
+      "price": 9907,
+      "quantity": 13,
+      "timestamp": 1700000000006
+    },
+    {
+      "id": 8,
+      "side": "ask",
+      "price": 10106,
+      "quantity": 29,
+      "timestamp": 1700000000007
+    },
+    {
+      "id": 9,
+      "side": "ask",
+      "price": 10051,
+      "quantity": 49,
+      "timestamp": 1700000000008
+    },
+    {
+      "id": 10,
+      "side": "bid",
+      "price": 9872,
+      "quantity": 28,
+      "timestamp": 1700000000009
+    },
+    {
+      "id": 11,
+      "side": "ask",
+      "price": 10121,
+      "quantity": 10,
+      "timestamp": 1700000000010
+    },
+    {
+      "id": 12,
+      "side": "bid",
+      "price": 9855,
+      "quantity": 22,
+      "timestamp": 1700000000011
+    },
+    {
+      "id": 13,
+      "side": "bid",
+      "price": 10027,
+      "quantity": 25,
+      "timestamp": 1700000000012
+    },
+    {
+      "id": 14,
+      "side": "bid",
+      "price": 9959,
+      "quantity": 23,
+      "timestamp": 1700000000013
+    },
+    {
+      "id": 15,
+      "side": "ask",
+      "price": 10061,
+      "quantity": 47,
+      "timestamp": 1700000000014
+    },
+    {
+      "id": 16,
+      "side": "ask",
+      "price": 10187,
+      "quantity": 8,
+      "timestamp": 1700000000015
+    },
+    {
+      "id": 17,
+      "side": "ask",
+      "price": 10070,
+      "quantity": 36,
+      "timestamp": 1700000000016
+    },
+    {
+      "id": 18,
+      "side": "ask",
+      "price": 10210,
+      "quantity": 40,
+      "timestamp": 1700000000017
+    },
+    {
+      "id": 19,
+      "side": "ask",
+      "price": 10197,
+      "quantity": 13,
+      "timestamp": 1700000000018
+    },
+    {
+      "id": 20,
+      "side": "bid",
+      "price": 10039,
+      "quantity": 43,
+      "timestamp": 1700000000019
+    },
+    {
+      "id": 21,
+      "side": "bid",
+      "price": 9853,
+      "quantity": 19,
+      "timestamp": 1700000000020
+    },
+    {
+      "id": 22,
+      "side": "bid",
+      "price": 9991,
+      "quantity": 7,
+      "timestamp": 1700000000021
+    },
+    {
+      "id": 23,
+      "side": "ask",
+      "price": 10121,
+      "quantity": 30,
+      "timestamp": 1700000000022
+    },
+    {
+      "id": 24,
+      "side": "ask",
+      "price": 10091,
+      "quantity": 24,
+      "timestamp": 1700000000023
+    },
+    {
+      "id": 25,
+      "side": "ask",
+      "price": 10103,
+      "quantity": 43,
+      "timestamp": 1700000000024
+    },
+    {
+      "id": 26,
+      "side": "ask",
+      "price": 10229,
+      "quantity": 44,
+      "timestamp": 1700000000025
+    },
+    {
+      "id": 27,
+      "side": "bid",
+      "price": 9895,
+      "quantity": 41,
+      "timestamp": 1700000000026
+    },
+    {
+      "id": 28,
+      "side": "bid",
+      "price": 9914,
+      "quantity": 47,
+      "timestamp": 1700000000027
+    },
+    {
+      "id": 29,
+      "side": "bid",
+      "price": 10009,
+      "quantity": 30,
+      "timestamp": 1700000000028
+    },
+    {
+      "id": 30,
+      "side": "ask",
+      "price": 10119,
+      "quantity": 41,
+      "timestamp": 1700000000029
+    },
+    {
+      "id": 31,
+      "side": "bid",
+      "price": 9875,
+      "quantity": 21,
+      "timestamp": 1700000000030
+    },
+    {
+      "id": 32,
+      "side": "bid",
+      "price": 9992,
+      "quantity": 3,
+      "timestamp": 1700000000031
+    },
+    {
+      "id": 33,
+      "side": "ask",
+      "price": 10152,
+      "quantity": 18,
+      "timestamp": 1700000000032
+    },
+    {
+      "id": 34,
+      "side": "bid",
+      "price": 9996,
+      "quantity": 37,
+      "timestamp": 1700000000033
+    },
+    {
+      "id": 35,
+      "side": "ask",
+      "price": 10104,
+      "quantity": 42,
+      "timestamp": 1700000000034
+    },
+    {
+      "id": 36,
+      "side": "ask",
+      "price": 10151,
+      "quantity": 42,
+      "timestamp": 1700000000035
+    },
+    {
+      "id": 37,
+      "side": "ask",
+      "price": 10086,
+      "quantity": 17,
+      "timestamp": 1700000000036
+    },
+    {
+      "id": 38,
+      "side": "bid",
+      "price": 9987,
+      "quantity": 48,
+      "timestamp": 1700000000037
+    },
+    {
+      "id": 39,
+      "side": "ask",
+      "price": 10241,
+      "quantity": 38,
+      "timestamp": 1700000000038
+    },
+    {
+      "id": 40,
+      "side": "ask",
+      "price": 10199,
+      "quantity": 26,
+      "timestamp": 1700000000039
+    },
+    {
+      "id": 41,
+      "side": "ask",
+      "price": 10106,
+      "quantity": 9,
+      "timestamp": 1700000000040
+    },
+    {
+      "id": 42,
+      "side": "ask",
+      "price": 10073,
+      "quantity": 49,
+      "timestamp": 1700000000041
+    },
+    {
+      "id": 43,
+      "side": "bid",
+      "price": 10022,
+      "quantity": 10,
+      "timestamp": 1700000000042
+    },
+    {
+      "id": 44,
+      "side": "bid",
+      "price": 9876,
+      "quantity": 28,
+      "timestamp": 1700000000043
+    },
+    {
+      "id": 45,
+      "side": "bid",
+      "price": 9952,
+      "quantity": 25,
+      "timestamp": 1700000000044
+    },
+    {
+      "id": 46,
+      "side": "ask",
+      "price": 10185,
+      "quantity": 17,
+      "timestamp": 1700000000045
+    },
+    {
+      "id": 47,
+      "side": "bid",
+      "price": 9876,
+      "quantity": 47,
+      "timestamp": 1700000000046
+    },
+    {
+      "id": 48,
+      "side": "bid",
+      "price": 9876,
+      "quantity": 35,
+      "timestamp": 1700000000047
+    },
+    {
+      "id": 49,
+      "side": "ask",
+      "price": 10246,
+      "quantity": 42,
+      "timestamp": 1700000000048
+    },
+    {
+      "id": 50,
+      "side": "ask",
+      "price": 10078,
+      "quantity": 19,
+      "timestamp": 1700000000049
+    },
+    {
+      "id": 51,
+      "side": "ask",
+      "price": 10090,
+      "quantity": 30,
+      "timestamp": 1700000000050
+    },
+    {
+      "id": 52,
+      "side": "bid",
+      "price": 9866,
+      "quantity": 47,
+      "timestamp": 1700000000051
+    },
+    {
+      "id": 53,
+      "side": "ask",
+      "price": 10178,
+      "quantity": 49,
+      "timestamp": 1700000000052
+    },
+    {
+      "id": 54,
+      "side": "bid",
+      "price": 9921,
+      "quantity": 7,
+      "timestamp": 1700000000053
+    },
+    {
+      "id": 55,
+      "side": "ask",
+      "price": 10213,
+      "quantity": 33,
+      "timestamp": 1700000000054
+    },
+    {
+      "id": 56,
+      "side": "bid",
+      "price": 10011,
+      "quantity": 24,
+      "timestamp": 1700000000055
+    },
+    {
+      "id": 57,
+      "side": "bid",
+      "price": 9912,
+      "quantity": 50,
+      "timestamp": 1700000000056
+    },
+    {
+      "id": 58,
+      "side": "bid",
+      "price": 9897,
+      "quantity": 21,
+      "timestamp": 1700000000057
+    },
+    {
+      "id": 59,
+      "side": "ask",
+      "price": 10054,
+      "quantity": 8,
+      "timestamp": 1700000000058
+    },
+    {
+      "id": 60,
+      "side": "ask",
+      "price": 10128,
+      "quantity": 16,
+      "timestamp": 1700000000059
+    },
+    {
+      "id": 61,
+      "side": "bid",
+      "price": 9989,
+      "quantity": 37,
+      "timestamp": 1700000000060
+    },
+    {
+      "id": 62,
+      "side": "bid",
+      "price": 10029,
+      "quantity": 47,
+      "timestamp": 1700000000061
+    },
+    {
+      "id": 63,
+      "side": "ask",
+      "price": 10067,
+      "quantity": 49,
+      "timestamp": 1700000000062
+    },
+    {
+      "id": 64,
+      "side": "bid",
+      "price": 10018,
+      "quantity": 43,
+      "timestamp": 1700000000063
+    },
+    {
+      "id": 65,
+      "side": "ask",
+      "price": 10190,
+      "quantity": 11,
+      "timestamp": 1700000000064
+    },
+    {
+      "id": 66,
+      "side": "ask",
+      "price": 10185,
+      "quantity": 39,
+      "timestamp": 1700000000065
+    },
+    {
+      "id": 67,
+      "side": "ask",
+      "price": 10104,
+      "quantity": 35,
+      "timestamp": 1700000000066
+    },
+    {
+      "id": 68,
+      "side": "bid",
+      "price": 9868,
+      "quantity": 20,
+      "timestamp": 1700000000067
+    },
+    {
+      "id": 69,
+      "side": "ask",
+      "price": 10221,
+      "quantity": 42,
+      "timestamp": 1700000000068
+    },
+    {
+      "id": 70,
+      "side": "ask",
+      "price": 10162,
+      "quantity": 34,
+      "timestamp": 1700000000069
+    },
+    {
+      "id": 71,
+      "side": "ask",
+      "price": 10080,
+      "quantity": 16,
+      "timestamp": 1700000000070
+    },
+    {
+      "id": 72,
+      "side": "bid",
+      "price": 10034,
+      "quantity": 22,
+      "timestamp": 1700000000071
+    },
+    {
+      "id": 73,
+      "side": "bid",
+      "price": 9900,
+      "quantity": 36,
+      "timestamp": 1700000000072
+    },
+    {
+      "id": 74,
+      "side": "bid",
+      "price": 9900,
+      "quantity": 15,
+      "timestamp": 1700000000073
+    },
+    {
+      "id": 75,
+      "side": "bid",
+      "price": 10032,
+      "quantity": 46,
+      "timestamp": 1700000000074
+    },
+    {
+      "id": 76,
+      "side": "bid",
+      "price": 9992,
+      "quantity": 5,
+      "timestamp": 1700000000075
+    },
+    {
+      "id": 77,
+      "side": "bid",
+      "price": 9966,
+      "quantity": 5,
+      "timestamp": 1700000000076
+    },
+    {
+      "id": 78,
+      "side": "bid",
+      "price": 9979,
+      "quantity": 43,
+      "timestamp": 1700000000077
+    },
+    {
+      "id": 79,
+      "side": "ask",
+      "price": 10104,
+      "quantity": 35,
+      "timestamp": 1700000000078
+    },
+    {
+      "id": 80,
+      "side": "bid",
+      "price": 9865,
+      "quantity": 37,
+      "timestamp": 1700000000079
+    },
+    {
+      "id": 81,
+      "side": "ask",
+      "price": 10112,
+      "quantity": 31,
+      "timestamp": 1700000000080
+    },
+    {
+      "id": 82,
+      "side": "ask",
+      "price": 10098,
+      "quantity": 7,
+      "timestamp": 1700000000081
+    },
+    {
+      "id": 83,
+      "side": "bid",
+      "price": 9882,
+      "quantity": 28,
+      "timestamp": 1700000000082
+    },
+    {
+      "id": 84,
+      "side": "ask",
+      "price": 10158,
+      "quantity": 27,
+      "timestamp": 1700000000083
+    },
+    {
+      "id": 85,
+      "side": "ask",
+      "price": 10236,
+      "quantity": 4,
+      "timestamp": 1700000000084
+    },
+    {
+      "id": 86,
+      "side": "bid",
+      "price": 10035,
+      "quantity": 26,
+      "timestamp": 1700000000085
+    },
+    {
+      "id": 87,
+      "side": "ask",
+      "price": 10077,
+      "quantity": 16,
+      "timestamp": 1700000000086
+    },
+    {
+      "id": 88,
+      "side": "bid",
+      "price": 10002,
+      "quantity": 35,
+      "timestamp": 1700000000087
+    },
+    {
+      "id": 89,
+      "side": "ask",
+      "price": 10085,
+      "quantity": 28,
+      "timestamp": 1700000000088
+    },
+    {
+      "id": 90,
+      "side": "bid",
+      "price": 9979,
+      "quantity": 30,
+      "timestamp": 1700000000089
+    },
+    {
+      "id": 91,
+      "side": "bid",
+      "price": 10031,
+      "quantity": 29,
+      "timestamp": 1700000000090
+    },
+    {
+      "id": 92,
+      "side": "bid",
+      "price": 10038,
+      "quantity": 42,
+      "timestamp": 1700000000091
+    },
+    {
+      "id": 93,
+      "side": "bid",
+      "price": 10027,
+      "quantity": 49,
+      "timestamp": 1700000000092
+    },
+    {
+      "id": 94,
+      "side": "bid",
+      "price": 10008,
+      "quantity": 27,
+      "timestamp": 1700000000093
+    },
+    {
+      "id": 95,
+      "side": "ask",
+      "price": 10173,
+      "quantity": 14,
+      "timestamp": 1700000000094
+    },
+    {
+      "id": 96,
+      "side": "ask",
+      "price": 10065,
+      "quantity": 11,
+      "timestamp": 1700000000095
+    },
+    {
+      "id": 97,
+      "side": "ask",
+      "price": 10050,
+      "quantity": 25,
+      "timestamp": 1700000000096
+    },
+    {
+      "id": 98,
+      "side": "ask",
+      "price": 10250,
+      "quantity": 30,
+      "timestamp": 1700000000097
+    },
+    {
+      "id": 99,
+      "side": "ask",
+      "price": 10158,
+      "quantity": 45,
+      "timestamp": 1700000000098
+    },
+    {
+      "id": 100,
+      "side": "ask",
+      "price": 10089,
+      "quantity": 13,
+      "timestamp": 1700000000099
+    },
+    {
+      "id": 101,
+      "side": "ask",
+      "price": 10105,
+      "quantity": 4,
+      "timestamp": 1700000000100
+    },
+    {
+      "id": 102,
+      "side": "bid",
+      "price": 9859,
+      "quantity": 21,
+      "timestamp": 1700000000101
+    },
+    {
+      "id": 103,
+      "side": "bid",
+      "price": 10038,
+      "quantity": 38,
+      "timestamp": 1700000000102
+    },
+    {
+      "id": 104,
+      "side": "ask",
+      "price": 10178,
+      "quantity": 34,
+      "timestamp": 1700000000103
+    },
+    {
+      "id": 105,
+      "side": "bid",
+      "price": 10036,
+      "quantity": 33,
+      "timestamp": 1700000000104
+    },
+    {
+      "id": 106,
+      "side": "bid",
+      "price": 10003,
+      "quantity": 5,
+      "timestamp": 1700000000105
+    },
+    {
+      "id": 107,
+      "side": "bid",
+      "price": 9878,
+      "quantity": 16,
+      "timestamp": 1700000000106
+    },
+    {
+      "id": 108,
+      "side": "ask",
+      "price": 10080,
+      "quantity": 37,
+      "timestamp": 1700000000107
+    },
+    {
+      "id": 109,
+      "side": "bid",
+      "price": 9902,
+      "quantity": 39,
+      "timestamp": 1700000000108
+    },
+    {
+      "id": 110,
+      "side": "bid",
+      "price": 9892,
+      "quantity": 6,
+      "timestamp": 1700000000109
+    },
+    {
+      "id": 111,
+      "side": "ask",
+      "price": 10218,
+      "quantity": 38,
+      "timestamp": 1700000000110
+    },
+    {
+      "id": 112,
+      "side": "ask",
+      "price": 10116,
+      "quantity": 14,
+      "timestamp": 1700000000111
+    },
+    {
+      "id": 113,
+      "side": "ask",
+      "price": 10111,
+      "quantity": 17,
+      "timestamp": 1700000000112
+    },
+    {
+      "id": 114,
+      "side": "ask",
+      "price": 10083,
+      "quantity": 43,
+      "timestamp": 1700000000113
+    },
+    {
+      "id": 115,
+      "side": "ask",
+      "price": 10167,
+      "quantity": 21,
+      "timestamp": 1700000000114
+    },
+    {
+      "id": 116,
+      "side": "bid",
+      "price": 10048,
+      "quantity": 30,
+      "timestamp": 1700000000115
+    },
+    {
+      "id": 117,
+      "side": "bid",
+      "price": 10032,
+      "quantity": 35,
+      "timestamp": 1700000000116
+    },
+    {
+      "id": 118,
+      "side": "bid",
+      "price": 9921,
+      "quantity": 17,
+      "timestamp": 1700000000117
+    },
+    {
+      "id": 119,
+      "side": "bid",
+      "price": 9961,
+      "quantity": 5,
+      "timestamp": 1700000000118
+    },
+    {
+      "id": 120,
+      "side": "bid",
+      "price": 9956,
+      "quantity": 19,
+      "timestamp": 1700000000119
+    },
+    {
+      "id": 121,
+      "side": "bid",
+      "price": 9938,
+      "quantity": 35,
+      "timestamp": 1700000000120
+    },
+    {
+      "id": 122,
+      "side": "ask",
+      "price": 10206,
+      "quantity": 42,
+      "timestamp": 1700000000121
+    },
+    {
+      "id": 123,
+      "side": "bid",
+      "price": 9880,
+      "quantity": 36,
+      "timestamp": 1700000000122
+    },
+    {
+      "id": 124,
+      "side": "ask",
+      "price": 10219,
+      "quantity": 7,
+      "timestamp": 1700000000123
+    },
+    {
+      "id": 125,
+      "side": "bid",
+      "price": 9983,
+      "quantity": 8,
+      "timestamp": 1700000000124
+    },
+    {
+      "id": 126,
+      "side": "bid",
+      "price": 9860,
+      "quantity": 36,
+      "timestamp": 1700000000125
+    },
+    {
+      "id": 127,
+      "side": "bid",
+      "price": 9981,
+      "quantity": 19,
+      "timestamp": 1700000000126
+    },
+    {
+      "id": 128,
+      "side": "bid",
+      "price": 9867,
+      "quantity": 22,
+      "timestamp": 1700000000127
+    },
+    {
+      "id": 129,
+      "side": "bid",
+      "price": 9875,
+      "quantity": 41,
+      "timestamp": 1700000000128
+    },
+    {
+      "id": 130,
+      "side": "ask",
+      "price": 10179,
+      "quantity": 32,
+      "timestamp": 1700000000129
+    },
+    {
+      "id": 131,
+      "side": "ask",
+      "price": 10063,
+      "quantity": 6,
+      "timestamp": 1700000000130
+    },
+    {
+      "id": 132,
+      "side": "ask",
+      "price": 10120,
+      "quantity": 3,
+      "timestamp": 1700000000131
+    },
+    {
+      "id": 133,
+      "side": "bid",
+      "price": 9965,
+      "quantity": 50,
+      "timestamp": 1700000000132
+    },
+    {
+      "id": 134,
+      "side": "bid",
+      "price": 9887,
+      "quantity": 17,
+      "timestamp": 1700000000133
+    },
+    {
+      "id": 135,
+      "side": "bid",
+      "price": 9861,
+      "quantity": 29,
+      "timestamp": 1700000000134
+    },
+    {
+      "id": 136,
+      "side": "ask",
+      "price": 10193,
+      "quantity": 1,
+      "timestamp": 1700000000135
+    },
+    {
+      "id": 137,
+      "side": "bid",
+      "price": 10031,
+      "quantity": 45,
+      "timestamp": 1700000000136
+    },
+    {
+      "id": 138,
+      "side": "bid",
+      "price": 9911,
+      "quantity": 3,
+      "timestamp": 1700000000137
+    },
+    {
+      "id": 139,
+      "side": "ask",
+      "price": 10199,
+      "quantity": 36,
+      "timestamp": 1700000000138
+    },
+    {
+      "id": 140,
+      "side": "bid",
+      "price": 9940,
+      "quantity": 9,
+      "timestamp": 1700000000139
+    },
+    {
+      "id": 141,
+      "side": "bid",
+      "price": 9972,
+      "quantity": 24,
+      "timestamp": 1700000000140
+    },
+    {
+      "id": 142,
+      "side": "bid",
+      "price": 9959,
+      "quantity": 14,
+      "timestamp": 1700000000141
+    },
+    {
+      "id": 143,
+      "side": "bid",
+      "price": 9880,
+      "quantity": 7,
+      "timestamp": 1700000000142
+    },
+    {
+      "id": 144,
+      "side": "ask",
+      "price": 10249,
+      "quantity": 36,
+      "timestamp": 1700000000143
+    },
+    {
+      "id": 145,
+      "side": "ask",
+      "price": 10208,
+      "quantity": 48,
+      "timestamp": 1700000000144
+    },
+    {
+      "id": 146,
+      "side": "bid",
+      "price": 9990,
+      "quantity": 11,
+      "timestamp": 1700000000145
+    },
+    {
+      "id": 147,
+      "side": "bid",
+      "price": 9945,
+      "quantity": 2,
+      "timestamp": 1700000000146
+    },
+    {
+      "id": 148,
+      "side": "bid",
+      "price": 9862,
+      "quantity": 22,
+      "timestamp": 1700000000147
+    },
+    {
+      "id": 149,
+      "side": "ask",
+      "price": 10221,
+      "quantity": 48,
+      "timestamp": 1700000000148
+    },
+    {
+      "id": 150,
+      "side": "bid",
+      "price": 9982,
+      "quantity": 11,
+      "timestamp": 1700000000149
+    },
+    {
+      "id": 151,
+      "side": "bid",
+      "price": 9953,
+      "quantity": 3,
+      "timestamp": 1700000000150
+    },
+    {
+      "id": 152,
+      "side": "ask",
+      "price": 10106,
+      "quantity": 13,
+      "timestamp": 1700000000151
+    },
+    {
+      "id": 153,
+      "side": "ask",
+      "price": 10139,
+      "quantity": 20,
+      "timestamp": 1700000000152
+    },
+    {
+      "id": 154,
+      "side": "bid",
+      "price": 9993,
+      "quantity": 2,
+      "timestamp": 1700000000153
+    },
+    {
+      "id": 155,
+      "side": "bid",
+      "price": 9948,
+      "quantity": 22,
+      "timestamp": 1700000000154
+    },
+    {
+      "id": 156,
+      "side": "ask",
+      "price": 10067,
+      "quantity": 50,
+      "timestamp": 1700000000155
+    },
+    {
+      "id": 157,
+      "side": "ask",
+      "price": 10139,
+      "quantity": 42,
+      "timestamp": 1700000000156
+    },
+    {
+      "id": 158,
+      "side": "ask",
+      "price": 10223,
+      "quantity": 35,
+      "timestamp": 1700000000157
+    },
+    {
+      "id": 159,
+      "side": "ask",
+      "price": 10057,
+      "quantity": 8,
+      "timestamp": 1700000000158
+    },
+    {
+      "id": 160,
+      "side": "ask",
+      "price": 10095,
+      "quantity": 38,
+      "timestamp": 1700000000159
+    },
+    {
+      "id": 161,
+      "side": "ask",
+      "price": 10059,
+      "quantity": 7,
+      "timestamp": 1700000000160
+    },
+    {
+      "id": 162,
+      "side": "ask",
+      "price": 10138,
+      "quantity": 47,
+      "timestamp": 1700000000161
+    },
+    {
+      "id": 163,
+      "side": "ask",
+      "price": 10161,
+      "quantity": 39,
+      "timestamp": 1700000000162
+    },
+    {
+      "id": 164,
+      "side": "bid",
+      "price": 9952,
+      "quantity": 37,
+      "timestamp": 1700000000163
+    },
+    {
+      "id": 165,
+      "side": "bid",
+      "price": 9985,
+      "quantity": 3,
+      "timestamp": 1700000000164
+    },
+    {
+      "id": 166,
+      "side": "ask",
+      "price": 10050,
+      "quantity": 34,
+      "timestamp": 1700000000165
+    },
+    {
+      "id": 167,
+      "side": "bid",
+      "price": 9957,
+      "quantity": 28,
+      "timestamp": 1700000000166
+    },
+    {
+      "id": 168,
+      "side": "bid",
+      "price": 9880,
+      "quantity": 22,
+      "timestamp": 1700000000167
+    },
+    {
+      "id": 169,
+      "side": "ask",
+      "price": 10219,
+      "quantity": 8,
+      "timestamp": 1700000000168
+    },
+    {
+      "id": 170,
+      "side": "ask",
+      "price": 10179,
+      "quantity": 20,
+      "timestamp": 1700000000169
+    },
+    {
+      "id": 171,
+      "side": "ask",
+      "price": 10133,
+      "quantity": 26,
+      "timestamp": 1700000000170
+    },
+    {
+      "id": 172,
+      "side": "ask",
+      "price": 10191,
+      "quantity": 9,
+      "timestamp": 1700000000171
+    },
+    {
+      "id": 173,
+      "side": "bid",
+      "price": 9943,
+      "quantity": 43,
+      "timestamp": 1700000000172
+    },
+    {
+      "id": 174,
+      "side": "ask",
+      "price": 10223,
+      "quantity": 48,
+      "timestamp": 1700000000173
+    },
+    {
+      "id": 175,
+      "side": "bid",
+      "price": 9893,
+      "quantity": 37,
+      "timestamp": 1700000000174
+    },
+    {
+      "id": 176,
+      "side": "ask",
+      "price": 10153,
+      "quantity": 36,
+      "timestamp": 1700000000175
+    },
+    {
+      "id": 177,
+      "side": "bid",
+      "price": 9973,
+      "quantity": 19,
+      "timestamp": 1700000000176
+    },
+    {
+      "id": 178,
+      "side": "bid",
+      "price": 9940,
+      "quantity": 38,
+      "timestamp": 1700000000177
+    },
+    {
+      "id": 179,
+      "side": "ask",
+      "price": 10169,
+      "quantity": 29,
+      "timestamp": 1700000000178
+    },
+    {
+      "id": 180,
+      "side": "ask",
+      "price": 10222,
+      "quantity": 14,
+      "timestamp": 1700000000179
+    },
+    {
+      "id": 181,
+      "side": "ask",
+      "price": 10238,
+      "quantity": 11,
+      "timestamp": 1700000000180
+    },
+    {
+      "id": 182,
+      "side": "bid",
+      "price": 9978,
+      "quantity": 33,
+      "timestamp": 1700000000181
+    },
+    {
+      "id": 183,
+      "side": "ask",
+      "price": 10073,
+      "quantity": 49,
+      "timestamp": 1700000000182
+    },
+    {
+      "id": 184,
+      "side": "bid",
+      "price": 9878,
+      "quantity": 20,
+      "timestamp": 1700000000183
+    },
+    {
+      "id": 185,
+      "side": "bid",
+      "price": 10000,
+      "quantity": 10,
+      "timestamp": 1700000000184
+    },
+    {
+      "id": 186,
+      "side": "bid",
+      "price": 10039,
+      "quantity": 16,
+      "timestamp": 1700000000185
+    },
+    {
+      "id": 187,
+      "side": "ask",
+      "price": 10206,
+      "quantity": 50,
+      "timestamp": 1700000000186
+    },
+    {
+      "id": 188,
+      "side": "bid",
+      "price": 9934,
+      "quantity": 27,
+      "timestamp": 1700000000187
+    },
+    {
+      "id": 189,
+      "side": "bid",
+      "price": 9867,
+      "quantity": 45,
+      "timestamp": 1700000000188
+    },
+    {
+      "id": 190,
+      "side": "ask",
+      "price": 10176,
+      "quantity": 26,
+      "timestamp": 1700000000189
+    },
+    {
+      "id": 191,
+      "side": "bid",
+      "price": 10013,
+      "quantity": 42,
+      "timestamp": 1700000000190
+    },
+    {
+      "id": 192,
+      "side": "bid",
+      "price": 9858,
+      "quantity": 50,
+      "timestamp": 1700000000191
+    },
+    {
+      "id": 193,
+      "side": "bid",
+      "price": 9851,
+      "quantity": 28,
+      "timestamp": 1700000000192
+    },
+    {
+      "id": 194,
+      "side": "bid",
+      "price": 10005,
+      "quantity": 45,
+      "timestamp": 1700000000193
+    },
+    {
+      "id": 195,
+      "side": "ask",
+      "price": 10062,
+      "quantity": 36,
+      "timestamp": 1700000000194
+    },
+    {
+      "id": 196,
+      "side": "bid",
+      "price": 10019,
+      "quantity": 30,
+      "timestamp": 1700000000195
+    },
+    {
+      "id": 197,
+      "side": "bid",
+      "price": 9932,
+      "quantity": 43,
+      "timestamp": 1700000000196
+    },
+    {
+      "id": 198,
+      "side": "ask",
+      "price": 10243,
+      "quantity": 29,
+      "timestamp": 1700000000197
+    },
+    {
+      "id": 199,
+      "side": "ask",
+      "price": 10190,
+      "quantity": 29,
+      "timestamp": 1700000000198
+    },
+    {
+      "id": 200,
+      "side": "bid",
+      "price": 9860,
+      "quantity": 31,
+      "timestamp": 1700000000199
+    },
+    {
+      "id": 201,
+      "side": "ask",
+      "price": 10116,
+      "quantity": 49,
+      "timestamp": 1700000000200
+    },
+    {
+      "id": 202,
+      "side": "bid",
+      "price": 9887,
+      "quantity": 18,
+      "timestamp": 1700000000201
+    },
+    {
+      "id": 203,
+      "side": "ask",
+      "price": 10210,
+      "quantity": 16,
+      "timestamp": 1700000000202
+    },
+    {
+      "id": 204,
+      "side": "ask",
+      "price": 10162,
+      "quantity": 5,
+      "timestamp": 1700000000203
+    },
+    {
+      "id": 205,
+      "side": "ask",
+      "price": 10110,
+      "quantity": 18,
+      "timestamp": 1700000000204
+    },
+    {
+      "id": 206,
+      "side": "ask",
+      "price": 10131,
+      "quantity": 35,
+      "timestamp": 1700000000205
+    },
+    {
+      "id": 207,
+      "side": "bid",
+      "price": 10015,
+      "quantity": 10,
+      "timestamp": 1700000000206
+    },
+    {
+      "id": 208,
+      "side": "bid",
+      "price": 9952,
+      "quantity": 45,
+      "timestamp": 1700000000207
+    },
+    {
+      "id": 209,
+      "side": "bid",
+      "price": 9870,
+      "quantity": 14,
+      "timestamp": 1700000000208
+    },
+    {
+      "id": 210,
+      "side": "bid",
+      "price": 9944,
+      "quantity": 27,
+      "timestamp": 1700000000209
+    },
+    {
+      "id": 211,
+      "side": "ask",
+      "price": 10188,
+      "quantity": 30,
+      "timestamp": 1700000000210
+    },
+    {
+      "id": 212,
+      "side": "ask",
+      "price": 10065,
+      "quantity": 14,
+      "timestamp": 1700000000211
+    },
+    {
+      "id": 213,
+      "side": "ask",
+      "price": 10149,
+      "quantity": 50,
+      "timestamp": 1700000000212
+    },
+    {
+      "id": 214,
+      "side": "bid",
+      "price": 9855,
+      "quantity": 37,
+      "timestamp": 1700000000213
+    },
+    {
+      "id": 215,
+      "side": "ask",
+      "price": 10172,
+      "quantity": 1,
+      "timestamp": 1700000000214
+    },
+    {
+      "id": 216,
+      "side": "ask",
+      "price": 10126,
+      "quantity": 49,
+      "timestamp": 1700000000215
+    },
+    {
+      "id": 217,
+      "side": "ask",
+      "price": 10157,
+      "quantity": 35,
+      "timestamp": 1700000000216
+    },
+    {
+      "id": 218,
+      "side": "bid",
+      "price": 9926,
+      "quantity": 15,
+      "timestamp": 1700000000217
+    },
+    {
+      "id": 219,
+      "side": "ask",
+      "price": 10161,
+      "quantity": 32,
+      "timestamp": 1700000000218
+    },
+    {
+      "id": 220,
+      "side": "bid",
+      "price": 9951,
+      "quantity": 22,
+      "timestamp": 1700000000219
+    },
+    {
+      "id": 221,
+      "side": "ask",
+      "price": 10235,
+      "quantity": 11,
+      "timestamp": 1700000000220
+    },
+    {
+      "id": 222,
+      "side": "ask",
+      "price": 10082,
+      "quantity": 40,
+      "timestamp": 1700000000221
+    },
+    {
+      "id": 223,
+      "side": "bid",
+      "price": 9950,
+      "quantity": 38,
+      "timestamp": 1700000000222
+    },
+    {
+      "id": 224,
+      "side": "bid",
+      "price": 10029,
+      "quantity": 42,
+      "timestamp": 1700000000223
+    },
+    {
+      "id": 225,
+      "side": "ask",
+      "price": 10084,
+      "quantity": 30,
+      "timestamp": 1700000000224
+    },
+    {
+      "id": 226,
+      "side": "bid",
+      "price": 10038,
+      "quantity": 17,
+      "timestamp": 1700000000225
+    },
+    {
+      "id": 227,
+      "side": "ask",
+      "price": 10133,
+      "quantity": 14,
+      "timestamp": 1700000000226
+    },
+    {
+      "id": 228,
+      "side": "ask",
+      "price": 10133,
+      "quantity": 22,
+      "timestamp": 1700000000227
+    },
+    {
+      "id": 229,
+      "side": "ask",
+      "price": 10121,
+      "quantity": 49,
+      "timestamp": 1700000000228
+    },
+    {
+      "id": 230,
+      "side": "ask",
+      "price": 10114,
+      "quantity": 6,
+      "timestamp": 1700000000229
+    },
+    {
+      "id": 231,
+      "side": "ask",
+      "price": 10054,
+      "quantity": 48,
+      "timestamp": 1700000000230
+    },
+    {
+      "id": 232,
+      "side": "bid",
+      "price": 9961,
+      "quantity": 15,
+      "timestamp": 1700000000231
+    },
+    {
+      "id": 233,
+      "side": "bid",
+      "price": 9851,
+      "quantity": 42,
+      "timestamp": 1700000000232
+    },
+    {
+      "id": 234,
+      "side": "bid",
+      "price": 9857,
+      "quantity": 2,
+      "timestamp": 1700000000233
+    },
+    {
+      "id": 235,
+      "side": "bid",
+      "price": 9999,
+      "quantity": 2,
+      "timestamp": 1700000000234
+    },
+    {
+      "id": 236,
+      "side": "bid",
+      "price": 9989,
+      "quantity": 9,
+      "timestamp": 1700000000235
+    },
+    {
+      "id": 237,
+      "side": "ask",
+      "price": 10221,
+      "quantity": 8,
+      "timestamp": 1700000000236
+    },
+    {
+      "id": 238,
+      "side": "bid",
+      "price": 9931,
+      "quantity": 45,
+      "timestamp": 1700000000237
+    },
+    {
+      "id": 239,
+      "side": "ask",
+      "price": 10246,
+      "quantity": 24,
+      "timestamp": 1700000000238
+    },
+    {
+      "id": 240,
+      "side": "bid",
+      "price": 9895,
+      "quantity": 39,
+      "timestamp": 1700000000239
+    },
+    {
+      "id": 241,
+      "side": "bid",
+      "price": 9851,
+      "quantity": 11,
+      "timestamp": 1700000000240
+    },
+    {
+      "id": 242,
+      "side": "ask",
+      "price": 10077,
+      "quantity": 38,
+      "timestamp": 1700000000241
+    },
+    {
+      "id": 243,
+      "side": "bid",
+      "price": 9971,
+      "quantity": 37,
+      "timestamp": 1700000000242
+    },
+    {
+      "id": 244,
+      "side": "ask",
+      "price": 10151,
+      "quantity": 46,
+      "timestamp": 1700000000243
+    },
+    {
+      "id": 245,
+      "side": "bid",
+      "price": 10031,
+      "quantity": 38,
+      "timestamp": 1700000000244
+    },
+    {
+      "id": 246,
+      "side": "bid",
+      "price": 10024,
+      "quantity": 45,
+      "timestamp": 1700000000245
+    },
+    {
+      "id": 247,
+      "side": "ask",
+      "price": 10225,
+      "quantity": 39,
+      "timestamp": 1700000000246
+    },
+    {
+      "id": 248,
+      "side": "bid",
+      "price": 9906,
+      "quantity": 3,
+      "timestamp": 1700000000247
+    },
+    {
+      "id": 249,
+      "side": "ask",
+      "price": 10186,
+      "quantity": 28,
+      "timestamp": 1700000000248
+    },
+    {
+      "id": 250,
+      "side": "ask",
+      "price": 10067,
+      "quantity": 33,
+      "timestamp": 1700000000249
+    },
+    {
+      "id": 251,
+      "side": "ask",
+      "price": 10053,
+      "quantity": 27,
+      "timestamp": 1700000000250
+    },
+    {
+      "id": 252,
+      "side": "ask",
+      "price": 10077,
+      "quantity": 28,
+      "timestamp": 1700000000251
+    },
+    {
+      "id": 253,
+      "side": "ask",
+      "price": 10212,
+      "quantity": 30,
+      "timestamp": 1700000000252
+    },
+    {
+      "id": 254,
+      "side": "bid",
+      "price": 9939,
+      "quantity": 12,
+      "timestamp": 1700000000253
+    },
+    {
+      "id": 255,
+      "side": "ask",
+      "price": 10207,
+      "quantity": 35,
+      "timestamp": 1700000000254
+    },
+    {
+      "id": 256,
+      "side": "ask",
+      "price": 10169,
+      "quantity": 28,
+      "timestamp": 1700000000255
+    },
+    {
+      "id": 257,
+      "side": "ask",
+      "price": 10132,
+      "quantity": 16,
+      "timestamp": 1700000000256
+    },
+    {
+      "id": 258,
+      "side": "bid",
+      "price": 9979,
+      "quantity": 29,
+      "timestamp": 1700000000257
+    },
+    {
+      "id": 259,
+      "side": "bid",
+      "price": 9858,
+      "quantity": 30,
+      "timestamp": 1700000000258
+    },
+    {
+      "id": 260,
+      "side": "ask",
+      "price": 10136,
+      "quantity": 2,
+      "timestamp": 1700000000259
+    },
+    {
+      "id": 261,
+      "side": "ask",
+      "price": 10133,
+      "quantity": 12,
+      "timestamp": 1700000000260
+    },
+    {
+      "id": 262,
+      "side": "ask",
+      "price": 10104,
+      "quantity": 23,
+      "timestamp": 1700000000261
+    },
+    {
+      "id": 263,
+      "side": "ask",
+      "price": 10137,
+      "quantity": 18,
+      "timestamp": 1700000000262
+    },
+    {
+      "id": 264,
+      "side": "ask",
+      "price": 10192,
+      "quantity": 1,
+      "timestamp": 1700000000263
+    },
+    {
+      "id": 265,
+      "side": "bid",
+      "price": 10029,
+      "quantity": 16,
+      "timestamp": 1700000000264
+    },
+    {
+      "id": 266,
+      "side": "ask",
+      "price": 10175,
+      "quantity": 36,
+      "timestamp": 1700000000265
+    },
+    {
+      "id": 267,
+      "side": "bid",
+      "price": 9874,
+      "quantity": 31,
+      "timestamp": 1700000000266
+    },
+    {
+      "id": 268,
+      "side": "ask",
+      "price": 10164,
+      "quantity": 2,
+      "timestamp": 1700000000267
+    },
+    {
+      "id": 269,
+      "side": "bid",
+      "price": 9975,
+      "quantity": 15,
+      "timestamp": 1700000000268
+    },
+    {
+      "id": 270,
+      "side": "ask",
+      "price": 10227,
+      "quantity": 16,
+      "timestamp": 1700000000269
+    },
+    {
+      "id": 271,
+      "side": "ask",
+      "price": 10219,
+      "quantity": 38,
+      "timestamp": 1700000000270
+    },
+    {
+      "id": 272,
+      "side": "ask",
+      "price": 10171,
+      "quantity": 36,
+      "timestamp": 1700000000271
+    },
+    {
+      "id": 273,
+      "side": "ask",
+      "price": 10158,
+      "quantity": 48,
+      "timestamp": 1700000000272
+    },
+    {
+      "id": 274,
+      "side": "ask",
+      "price": 10140,
+      "quantity": 45,
+      "timestamp": 1700000000273
+    },
+    {
+      "id": 275,
+      "side": "ask",
+      "price": 10119,
+      "quantity": 20,
+      "timestamp": 1700000000274
+    },
+    {
+      "id": 276,
+      "side": "ask",
+      "price": 10109,
+      "quantity": 8,
+      "timestamp": 1700000000275
+    },
+    {
+      "id": 277,
+      "side": "bid",
+      "price": 9970,
+      "quantity": 8,
+      "timestamp": 1700000000276
+    },
+    {
+      "id": 278,
+      "side": "bid",
+      "price": 10001,
+      "quantity": 14,
+      "timestamp": 1700000000277
+    },
+    {
+      "id": 279,
+      "side": "ask",
+      "price": 10120,
+      "quantity": 47,
+      "timestamp": 1700000000278
+    },
+    {
+      "id": 280,
+      "side": "ask",
+      "price": 10075,
+      "quantity": 13,
+      "timestamp": 1700000000279
+    },
+    {
+      "id": 281,
+      "side": "ask",
+      "price": 10108,
+      "quantity": 24,
+      "timestamp": 1700000000280
+    },
+    {
+      "id": 282,
+      "side": "bid",
+      "price": 9973,
+      "quantity": 1,
+      "timestamp": 1700000000281
+    },
+    {
+      "id": 283,
+      "side": "bid",
+      "price": 9980,
+      "quantity": 3,
+      "timestamp": 1700000000282
+    },
+    {
+      "id": 284,
+      "side": "bid",
+      "price": 9909,
+      "quantity": 19,
+      "timestamp": 1700000000283
+    },
+    {
+      "id": 285,
+      "side": "bid",
+      "price": 9887,
+      "quantity": 49,
+      "timestamp": 1700000000284
+    },
+    {
+      "id": 286,
+      "side": "ask",
+      "price": 10076,
+      "quantity": 1,
+      "timestamp": 1700000000285
+    },
+    {
+      "id": 287,
+      "side": "ask",
+      "price": 10170,
+      "quantity": 31,
+      "timestamp": 1700000000286
+    },
+    {
+      "id": 288,
+      "side": "ask",
+      "price": 10137,
+      "quantity": 12,
+      "timestamp": 1700000000287
+    },
+    {
+      "id": 289,
+      "side": "bid",
+      "price": 9986,
+      "quantity": 31,
+      "timestamp": 1700000000288
+    },
+    {
+      "id": 290,
+      "side": "bid",
+      "price": 10034,
+      "quantity": 26,
+      "timestamp": 1700000000289
+    },
+    {
+      "id": 291,
+      "side": "ask",
+      "price": 10068,
+      "quantity": 37,
+      "timestamp": 1700000000290
+    },
+    {
+      "id": 292,
+      "side": "bid",
+      "price": 10012,
+      "quantity": 10,
+      "timestamp": 1700000000291
+    },
+    {
+      "id": 293,
+      "side": "ask",
+      "price": 10071,
+      "quantity": 16,
+      "timestamp": 1700000000292
+    },
+    {
+      "id": 294,
+      "side": "bid",
+      "price": 9908,
+      "quantity": 49,
+      "timestamp": 1700000000293
+    },
+    {
+      "id": 295,
+      "side": "ask",
+      "price": 10205,
+      "quantity": 39,
+      "timestamp": 1700000000294
+    },
+    {
+      "id": 296,
+      "side": "bid",
+      "price": 9852,
+      "quantity": 34,
+      "timestamp": 1700000000295
+    },
+    {
+      "id": 297,
+      "side": "ask",
+      "price": 10165,
+      "quantity": 29,
+      "timestamp": 1700000000296
+    },
+    {
+      "id": 298,
+      "side": "ask",
+      "price": 10200,
+      "quantity": 28,
+      "timestamp": 1700000000297
+    },
+    {
+      "id": 299,
+      "side": "ask",
+      "price": 10195,
+      "quantity": 40,
+      "timestamp": 1700000000298
+    },
+    {
+      "id": 300,
+      "side": "bid",
+      "price": 9894,
+      "quantity": 48,
+      "timestamp": 1700000000299
+    },
+    {
+      "id": 301,
+      "side": "bid",
+      "price": 9855,
+      "quantity": 14,
+      "timestamp": 1700000000300
+    },
+    {
+      "id": 302,
+      "side": "bid",
+      "price": 9983,
+      "quantity": 43,
+      "timestamp": 1700000000301
+    },
+    {
+      "id": 303,
+      "side": "bid",
+      "price": 10010,
+      "quantity": 16,
+      "timestamp": 1700000000302
+    },
+    {
+      "id": 304,
+      "side": "bid",
+      "price": 9909,
+      "quantity": 5,
+      "timestamp": 1700000000303
+    },
+    {
+      "id": 305,
+      "side": "bid",
+      "price": 10050,
+      "quantity": 27,
+      "timestamp": 1700000000304
+    },
+    {
+      "id": 306,
+      "side": "ask",
+      "price": 10226,
+      "quantity": 39,
+      "timestamp": 1700000000305
+    },
+    {
+      "id": 307,
+      "side": "ask",
+      "price": 10124,
+      "quantity": 3,
+      "timestamp": 1700000000306
+    },
+    {
+      "id": 308,
+      "side": "bid",
+      "price": 9977,
+      "quantity": 46,
+      "timestamp": 1700000000307
+    },
+    {
+      "id": 309,
+      "side": "ask",
+      "price": 10229,
+      "quantity": 30,
+      "timestamp": 1700000000308
+    },
+    {
+      "id": 310,
+      "side": "bid",
+      "price": 9875,
+      "quantity": 15,
+      "timestamp": 1700000000309
+    },
+    {
+      "id": 311,
+      "side": "ask",
+      "price": 10210,
+      "quantity": 38,
+      "timestamp": 1700000000310
+    },
+    {
+      "id": 312,
+      "side": "bid",
+      "price": 9942,
+      "quantity": 8,
+      "timestamp": 1700000000311
+    },
+    {
+      "id": 313,
+      "side": "bid",
+      "price": 9885,
+      "quantity": 10,
+      "timestamp": 1700000000312
+    },
+    {
+      "id": 314,
+      "side": "ask",
+      "price": 10086,
+      "quantity": 5,
+      "timestamp": 1700000000313
+    },
+    {
+      "id": 315,
+      "side": "bid",
+      "price": 10008,
+      "quantity": 20,
+      "timestamp": 1700000000314
+    },
+    {
+      "id": 316,
+      "side": "ask",
+      "price": 10162,
+      "quantity": 8,
+      "timestamp": 1700000000315
+    },
+    {
+      "id": 317,
+      "side": "ask",
+      "price": 10226,
+      "quantity": 20,
+      "timestamp": 1700000000316
+    },
+    {
+      "id": 318,
+      "side": "ask",
+      "price": 10119,
+      "quantity": 33,
+      "timestamp": 1700000000317
+    },
+    {
+      "id": 319,
+      "side": "ask",
+      "price": 10162,
+      "quantity": 6,
+      "timestamp": 1700000000318
+    },
+    {
+      "id": 320,
+      "side": "bid",
+      "price": 9940,
+      "quantity": 48,
+      "timestamp": 1700000000319
+    },
+    {
+      "id": 321,
+      "side": "ask",
+      "price": 10204,
+      "quantity": 17,
+      "timestamp": 1700000000320
+    },
+    {
+      "id": 322,
+      "side": "bid",
+      "price": 10027,
+      "quantity": 15,
+      "timestamp": 1700000000321
+    },
+    {
+      "id": 323,
+      "side": "bid",
+      "price": 9855,
+      "quantity": 44,
+      "timestamp": 1700000000322
+    },
+    {
+      "id": 324,
+      "side": "ask",
+      "price": 10197,
+      "quantity": 3,
+      "timestamp": 1700000000323
+    },
+    {
+      "id": 325,
+      "side": "bid",
+      "price": 9930,
+      "quantity": 34,
+      "timestamp": 1700000000324
+    },
+    {
+      "id": 326,
+      "side": "ask",
+      "price": 10121,
+      "quantity": 12,
+      "timestamp": 1700000000325
+    },
+    {
+      "id": 327,
+      "side": "ask",
+      "price": 10212,
+      "quantity": 32,
+      "timestamp": 1700000000326
+    },
+    {
+      "id": 328,
+      "side": "bid",
+      "price": 9930,
+      "quantity": 23,
+      "timestamp": 1700000000327
+    },
+    {
+      "id": 329,
+      "side": "ask",
+      "price": 10135,
+      "quantity": 21,
+      "timestamp": 1700000000328
+    },
+    {
+      "id": 330,
+      "side": "bid",
+      "price": 10009,
+      "quantity": 22,
+      "timestamp": 1700000000329
+    },
+    {
+      "id": 331,
+      "side": "ask",
+      "price": 10227,
+      "quantity": 32,
+      "timestamp": 1700000000330
+    },
+    {
+      "id": 332,
+      "side": "ask",
+      "price": 10219,
+      "quantity": 26,
+      "timestamp": 1700000000331
+    },
+    {
+      "id": 333,
+      "side": "bid",
+      "price": 9934,
+      "quantity": 6,
+      "timestamp": 1700000000332
+    },
+    {
+      "id": 334,
+      "side": "ask",
+      "price": 10114,
+      "quantity": 21,
+      "timestamp": 1700000000333
+    },
+    {
+      "id": 335,
+      "side": "bid",
+      "price": 9853,
+      "quantity": 26,
+      "timestamp": 1700000000334
+    },
+    {
+      "id": 336,
+      "side": "bid",
+      "price": 9882,
+      "quantity": 35,
+      "timestamp": 1700000000335
+    },
+    {
+      "id": 337,
+      "side": "ask",
+      "price": 10155,
+      "quantity": 4,
+      "timestamp": 1700000000336
+    },
+    {
+      "id": 338,
+      "side": "bid",
+      "price": 9918,
+      "quantity": 24,
+      "timestamp": 1700000000337
+    },
+    {
+      "id": 339,
+      "side": "ask",
+      "price": 10210,
+      "quantity": 29,
+      "timestamp": 1700000000338
+    },
+    {
+      "id": 340,
+      "side": "bid",
+      "price": 9998,
+      "quantity": 18,
+      "timestamp": 1700000000339
+    },
+    {
+      "id": 341,
+      "side": "bid",
+      "price": 9977,
+      "quantity": 29,
+      "timestamp": 1700000000340
+    },
+    {
+      "id": 342,
+      "side": "ask",
+      "price": 10081,
+      "quantity": 2,
+      "timestamp": 1700000000341
+    },
+    {
+      "id": 343,
+      "side": "bid",
+      "price": 9869,
+      "quantity": 11,
+      "timestamp": 1700000000342
+    },
+    {
+      "id": 344,
+      "side": "ask",
+      "price": 10191,
+      "quantity": 1,
+      "timestamp": 1700000000343
+    },
+    {
+      "id": 345,
+      "side": "ask",
+      "price": 10073,
+      "quantity": 15,
+      "timestamp": 1700000000344
+    },
+    {
+      "id": 346,
+      "side": "bid",
+      "price": 9932,
+      "quantity": 8,
+      "timestamp": 1700000000345
+    },
+    {
+      "id": 347,
+      "side": "bid",
+      "price": 9923,
+      "quantity": 46,
+      "timestamp": 1700000000346
+    },
+    {
+      "id": 348,
+      "side": "ask",
+      "price": 10180,
+      "quantity": 46,
+      "timestamp": 1700000000347
+    },
+    {
+      "id": 349,
+      "side": "ask",
+      "price": 10156,
+      "quantity": 31,
+      "timestamp": 1700000000348
+    },
+    {
+      "id": 350,
+      "side": "ask",
+      "price": 10112,
+      "quantity": 30,
+      "timestamp": 1700000000349
+    },
+    {
+      "id": 351,
+      "side": "bid",
+      "price": 9952,
+      "quantity": 13,
+      "timestamp": 1700000000350
+    },
+    {
+      "id": 352,
+      "side": "bid",
+      "price": 10033,
+      "quantity": 18,
+      "timestamp": 1700000000351
+    },
+    {
+      "id": 353,
+      "side": "ask",
+      "price": 10137,
+      "quantity": 33,
+      "timestamp": 1700000000352
+    },
+    {
+      "id": 354,
+      "side": "ask",
+      "price": 10050,
+      "quantity": 19,
+      "timestamp": 1700000000353
+    },
+    {
+      "id": 355,
+      "side": "ask",
+      "price": 10200,
+      "quantity": 38,
+      "timestamp": 1700000000354
+    },
+    {
+      "id": 356,
+      "side": "ask",
+      "price": 10088,
+      "quantity": 29,
+      "timestamp": 1700000000355
+    },
+    {
+      "id": 357,
+      "side": "ask",
+      "price": 10138,
+      "quantity": 22,
+      "timestamp": 1700000000356
+    },
+    {
+      "id": 358,
+      "side": "ask",
+      "price": 10166,
+      "quantity": 21,
+      "timestamp": 1700000000357
+    },
+    {
+      "id": 359,
+      "side": "bid",
+      "price": 9872,
+      "quantity": 16,
+      "timestamp": 1700000000358
+    },
+    {
+      "id": 360,
+      "side": "ask",
+      "price": 10109,
+      "quantity": 50,
+      "timestamp": 1700000000359
+    },
+    {
+      "id": 361,
+      "side": "ask",
+      "price": 10061,
+      "quantity": 21,
+      "timestamp": 1700000000360
+    },
+    {
+      "id": 362,
+      "side": "ask",
+      "price": 10230,
+      "quantity": 25,
+      "timestamp": 1700000000361
+    },
+    {
+      "id": 363,
+      "side": "ask",
+      "price": 10219,
+      "quantity": 42,
+      "timestamp": 1700000000362
+    },
+    {
+      "id": 364,
+      "side": "bid",
+      "price": 9924,
+      "quantity": 3,
+      "timestamp": 1700000000363
+    },
+    {
+      "id": 365,
+      "side": "bid",
+      "price": 9922,
+      "quantity": 38,
+      "timestamp": 1700000000364
+    },
+    {
+      "id": 366,
+      "side": "ask",
+      "price": 10075,
+      "quantity": 29,
+      "timestamp": 1700000000365
+    },
+    {
+      "id": 367,
+      "side": "bid",
+      "price": 9916,
+      "quantity": 30,
+      "timestamp": 1700000000366
+    },
+    {
+      "id": 368,
+      "side": "bid",
+      "price": 9866,
+      "quantity": 10,
+      "timestamp": 1700000000367
+    },
+    {
+      "id": 369,
+      "side": "ask",
+      "price": 10217,
+      "quantity": 10,
+      "timestamp": 1700000000368
+    },
+    {
+      "id": 370,
+      "side": "bid",
+      "price": 9930,
+      "quantity": 17,
+      "timestamp": 1700000000369
+    },
+    {
+      "id": 371,
+      "side": "ask",
+      "price": 10209,
+      "quantity": 45,
+      "timestamp": 1700000000370
+    },
+    {
+      "id": 372,
+      "side": "ask",
+      "price": 10216,
+      "quantity": 6,
+      "timestamp": 1700000000371
+    },
+    {
+      "id": 373,
+      "side": "ask",
+      "price": 10222,
+      "quantity": 35,
+      "timestamp": 1700000000372
+    },
+    {
+      "id": 374,
+      "side": "ask",
+      "price": 10131,
+      "quantity": 41,
+      "timestamp": 1700000000373
+    },
+    {
+      "id": 375,
+      "side": "ask",
+      "price": 10188,
+      "quantity": 3,
+      "timestamp": 1700000000374
+    },
+    {
+      "id": 376,
+      "side": "bid",
+      "price": 9990,
+      "quantity": 41,
+      "timestamp": 1700000000375
+    },
+    {
+      "id": 377,
+      "side": "ask",
+      "price": 10108,
+      "quantity": 48,
+      "timestamp": 1700000000376
+    },
+    {
+      "id": 378,
+      "side": "bid",
+      "price": 9939,
+      "quantity": 7,
+      "timestamp": 1700000000377
+    },
+    {
+      "id": 379,
+      "side": "bid",
+      "price": 9937,
+      "quantity": 11,
+      "timestamp": 1700000000378
+    },
+    {
+      "id": 380,
+      "side": "ask",
+      "price": 10057,
+      "quantity": 3,
+      "timestamp": 1700000000379
+    },
+    {
+      "id": 381,
+      "side": "ask",
+      "price": 10064,
+      "quantity": 19,
+      "timestamp": 1700000000380
+    },
+    {
+      "id": 382,
+      "side": "ask",
+      "price": 10145,
+      "quantity": 28,
+      "timestamp": 1700000000381
+    },
+    {
+      "id": 383,
+      "side": "bid",
+      "price": 9988,
+      "quantity": 34,
+      "timestamp": 1700000000382
+    },
+    {
+      "id": 384,
+      "side": "ask",
+      "price": 10194,
+      "quantity": 44,
+      "timestamp": 1700000000383
+    },
+    {
+      "id": 385,
+      "side": "bid",
+      "price": 10007,
+      "quantity": 12,
+      "timestamp": 1700000000384
+    },
+    {
+      "id": 386,
+      "side": "bid",
+      "price": 9894,
+      "quantity": 25,
+      "timestamp": 1700000000385
+    },
+    {
+      "id": 387,
+      "side": "bid",
+      "price": 9923,
+      "quantity": 38,
+      "timestamp": 1700000000386
+    },
+    {
+      "id": 388,
+      "side": "bid",
+      "price": 9991,
+      "quantity": 30,
+      "timestamp": 1700000000387
+    },
+    {
+      "id": 389,
+      "side": "ask",
+      "price": 10167,
+      "quantity": 17,
+      "timestamp": 1700000000388
+    },
+    {
+      "id": 390,
+      "side": "bid",
+      "price": 9931,
+      "quantity": 19,
+      "timestamp": 1700000000389
+    },
+    {
+      "id": 391,
+      "side": "bid",
+      "price": 10032,
+      "quantity": 29,
+      "timestamp": 1700000000390
+    },
+    {
+      "id": 392,
+      "side": "ask",
+      "price": 10200,
+      "quantity": 20,
+      "timestamp": 1700000000391
+    },
+    {
+      "id": 393,
+      "side": "ask",
+      "price": 10226,
+      "quantity": 17,
+      "timestamp": 1700000000392
+    },
+    {
+      "id": 394,
+      "side": "ask",
+      "price": 10127,
+      "quantity": 13,
+      "timestamp": 1700000000393
+    },
+    {
+      "id": 395,
+      "side": "ask",
+      "price": 10173,
+      "quantity": 7,
+      "timestamp": 1700000000394
+    },
+    {
+      "id": 396,
+      "side": "bid",
+      "price": 9953,
+      "quantity": 37,
+      "timestamp": 1700000000395
+    },
+    {
+      "id": 397,
+      "side": "ask",
+      "price": 10197,
+      "quantity": 19,
+      "timestamp": 1700000000396
+    },
+    {
+      "id": 398,
+      "side": "ask",
+      "price": 10055,
+      "quantity": 43,
+      "timestamp": 1700000000397
+    },
+    {
+      "id": 399,
+      "side": "ask",
+      "price": 10120,
+      "quantity": 1,
+      "timestamp": 1700000000398
+    },
+    {
+      "id": 400,
+      "side": "bid",
+      "price": 9895,
+      "quantity": 48,
+      "timestamp": 1700000000399
+    },
+    {
+      "id": 401,
+      "side": "ask",
+      "price": 10123,
+      "quantity": 50,
+      "timestamp": 1700000000400
+    },
+    {
+      "id": 402,
+      "side": "bid",
+      "price": 9895,
+      "quantity": 23,
+      "timestamp": 1700000000401
+    },
+    {
+      "id": 403,
+      "side": "bid",
+      "price": 9888,
+      "quantity": 13,
+      "timestamp": 1700000000402
+    },
+    {
+      "id": 404,
+      "side": "ask",
+      "price": 10223,
+      "quantity": 49,
+      "timestamp": 1700000000403
+    },
+    {
+      "id": 405,
+      "side": "bid",
+      "price": 9890,
+      "quantity": 7,
+      "timestamp": 1700000000404
+    },
+    {
+      "id": 406,
+      "side": "bid",
+      "price": 9971,
+      "quantity": 29,
+      "timestamp": 1700000000405
+    },
+    {
+      "id": 407,
+      "side": "bid",
+      "price": 9902,
+      "quantity": 24,
+      "timestamp": 1700000000406
+    },
+    {
+      "id": 408,
+      "side": "bid",
+      "price": 10027,
+      "quantity": 19,
+      "timestamp": 1700000000407
+    },
+    {
+      "id": 409,
+      "side": "ask",
+      "price": 10241,
+      "quantity": 27,
+      "timestamp": 1700000000408
+    },
+    {
+      "id": 410,
+      "side": "bid",
+      "price": 9999,
+      "quantity": 9,
+      "timestamp": 1700000000409
+    },
+    {
+      "id": 411,
+      "side": "ask",
+      "price": 10185,
+      "quantity": 33,
+      "timestamp": 1700000000410
+    },
+    {
+      "id": 412,
+      "side": "ask",
+      "price": 10092,
+      "quantity": 17,
+      "timestamp": 1700000000411
+    },
+    {
+      "id": 413,
+      "side": "ask",
+      "price": 10125,
+      "quantity": 48,
+      "timestamp": 1700000000412
+    },
+    {
+      "id": 414,
+      "side": "ask",
+      "price": 10079,
+      "quantity": 30,
+      "timestamp": 1700000000413
+    },
+    {
+      "id": 415,
+      "side": "bid",
+      "price": 10014,
+      "quantity": 49,
+      "timestamp": 1700000000414
+    },
+    {
+      "id": 416,
+      "side": "bid",
+      "price": 9877,
+      "quantity": 47,
+      "timestamp": 1700000000415
+    },
+    {
+      "id": 417,
+      "side": "ask",
+      "price": 10192,
+      "quantity": 24,
+      "timestamp": 1700000000416
+    },
+    {
+      "id": 418,
+      "side": "bid",
+      "price": 9949,
+      "quantity": 1,
+      "timestamp": 1700000000417
+    },
+    {
+      "id": 419,
+      "side": "ask",
+      "price": 10187,
+      "quantity": 8,
+      "timestamp": 1700000000418
+    },
+    {
+      "id": 420,
+      "side": "ask",
+      "price": 10144,
+      "quantity": 44,
+      "timestamp": 1700000000419
+    },
+    {
+      "id": 421,
+      "side": "ask",
+      "price": 10199,
+      "quantity": 25,
+      "timestamp": 1700000000420
+    },
+    {
+      "id": 422,
+      "side": "ask",
+      "price": 10077,
+      "quantity": 44,
+      "timestamp": 1700000000421
+    },
+    {
+      "id": 423,
+      "side": "bid",
+      "price": 9930,
+      "quantity": 2,
+      "timestamp": 1700000000422
+    },
+    {
+      "id": 424,
+      "side": "ask",
+      "price": 10206,
+      "quantity": 15,
+      "timestamp": 1700000000423
+    },
+    {
+      "id": 425,
+      "side": "bid",
+      "price": 9888,
+      "quantity": 30,
+      "timestamp": 1700000000424
+    },
+    {
+      "id": 426,
+      "side": "ask",
+      "price": 10216,
+      "quantity": 27,
+      "timestamp": 1700000000425
+    },
+    {
+      "id": 427,
+      "side": "bid",
+      "price": 10015,
+      "quantity": 3,
+      "timestamp": 1700000000426
+    },
+    {
+      "id": 428,
+      "side": "bid",
+      "price": 9973,
+      "quantity": 32,
+      "timestamp": 1700000000427
+    },
+    {
+      "id": 429,
+      "side": "bid",
+      "price": 10026,
+      "quantity": 16,
+      "timestamp": 1700000000428
+    },
+    {
+      "id": 430,
+      "side": "bid",
+      "price": 9951,
+      "quantity": 30,
+      "timestamp": 1700000000429
+    },
+    {
+      "id": 431,
+      "side": "ask",
+      "price": 10221,
+      "quantity": 48,
+      "timestamp": 1700000000430
+    },
+    {
+      "id": 432,
+      "side": "ask",
+      "price": 10200,
+      "quantity": 48,
+      "timestamp": 1700000000431
+    },
+    {
+      "id": 433,
+      "side": "bid",
+      "price": 9944,
+      "quantity": 42,
+      "timestamp": 1700000000432
+    },
+    {
+      "id": 434,
+      "side": "bid",
+      "price": 9925,
+      "quantity": 40,
+      "timestamp": 1700000000433
+    },
+    {
+      "id": 435,
+      "side": "ask",
+      "price": 10121,
+      "quantity": 3,
+      "timestamp": 1700000000434
+    },
+    {
+      "id": 436,
+      "side": "ask",
+      "price": 10105,
+      "quantity": 29,
+      "timestamp": 1700000000435
+    },
+    {
+      "id": 437,
+      "side": "ask",
+      "price": 10110,
+      "quantity": 24,
+      "timestamp": 1700000000436
+    },
+    {
+      "id": 438,
+      "side": "bid",
+      "price": 9875,
+      "quantity": 24,
+      "timestamp": 1700000000437
+    },
+    {
+      "id": 439,
+      "side": "ask",
+      "price": 10065,
+      "quantity": 26,
+      "timestamp": 1700000000438
+    },
+    {
+      "id": 440,
+      "side": "ask",
+      "price": 10098,
+      "quantity": 8,
+      "timestamp": 1700000000439
+    },
+    {
+      "id": 441,
+      "side": "ask",
+      "price": 10073,
+      "quantity": 43,
+      "timestamp": 1700000000440
+    },
+    {
+      "id": 442,
+      "side": "bid",
+      "price": 9886,
+      "quantity": 41,
+      "timestamp": 1700000000441
+    },
+    {
+      "id": 443,
+      "side": "bid",
+      "price": 10038,
+      "quantity": 22,
+      "timestamp": 1700000000442
+    },
+    {
+      "id": 444,
+      "side": "bid",
+      "price": 10018,
+      "quantity": 37,
+      "timestamp": 1700000000443
+    },
+    {
+      "id": 445,
+      "side": "bid",
+      "price": 10033,
+      "quantity": 49,
+      "timestamp": 1700000000444
+    },
+    {
+      "id": 446,
+      "side": "bid",
+      "price": 9900,
+      "quantity": 14,
+      "timestamp": 1700000000445
+    },
+    {
+      "id": 447,
+      "side": "bid",
+      "price": 9966,
+      "quantity": 50,
+      "timestamp": 1700000000446
+    },
+    {
+      "id": 448,
+      "side": "bid",
+      "price": 9898,
+      "quantity": 1,
+      "timestamp": 1700000000447
+    },
+    {
+      "id": 449,
+      "side": "ask",
+      "price": 10087,
+      "quantity": 9,
+      "timestamp": 1700000000448
+    },
+    {
+      "id": 450,
+      "side": "ask",
+      "price": 10094,
+      "quantity": 8,
+      "timestamp": 1700000000449
+    },
+    {
+      "id": 451,
+      "side": "bid",
+      "price": 10017,
+      "quantity": 1,
+      "timestamp": 1700000000450
+    },
+    {
+      "id": 452,
+      "side": "ask",
+      "price": 10110,
+      "quantity": 38,
+      "timestamp": 1700000000451
+    },
+    {
+      "id": 453,
+      "side": "ask",
+      "price": 10054,
+      "quantity": 12,
+      "timestamp": 1700000000452
+    },
+    {
+      "id": 454,
+      "side": "ask",
+      "price": 10063,
+      "quantity": 9,
+      "timestamp": 1700000000453
+    },
+    {
+      "id": 455,
+      "side": "ask",
+      "price": 10184,
+      "quantity": 8,
+      "timestamp": 1700000000454
+    },
+    {
+      "id": 456,
+      "side": "bid",
+      "price": 9929,
+      "quantity": 29,
+      "timestamp": 1700000000455
+    },
+    {
+      "id": 457,
+      "side": "ask",
+      "price": 10181,
+      "quantity": 38,
+      "timestamp": 1700000000456
+    },
+    {
+      "id": 458,
+      "side": "bid",
+      "price": 9935,
+      "quantity": 33,
+      "timestamp": 1700000000457
+    },
+    {
+      "id": 459,
+      "side": "bid",
+      "price": 9893,
+      "quantity": 3,
+      "timestamp": 1700000000458
+    },
+    {
+      "id": 460,
+      "side": "ask",
+      "price": 10167,
+      "quantity": 42,
+      "timestamp": 1700000000459
+    },
+    {
+      "id": 461,
+      "side": "bid",
+      "price": 10035,
+      "quantity": 31,
+      "timestamp": 1700000000460
+    },
+    {
+      "id": 462,
+      "side": "ask",
+      "price": 10159,
+      "quantity": 44,
+      "timestamp": 1700000000461
+    },
+    {
+      "id": 463,
+      "side": "bid",
+      "price": 9925,
+      "quantity": 46,
+      "timestamp": 1700000000462
+    },
+    {
+      "id": 464,
+      "side": "ask",
+      "price": 10068,
+      "quantity": 6,
+      "timestamp": 1700000000463
+    },
+    {
+      "id": 465,
+      "side": "ask",
+      "price": 10205,
+      "quantity": 10,
+      "timestamp": 1700000000464
+    },
+    {
+      "id": 466,
+      "side": "bid",
+      "price": 10018,
+      "quantity": 18,
+      "timestamp": 1700000000465
+    },
+    {
+      "id": 467,
+      "side": "ask",
+      "price": 10147,
+      "quantity": 39,
+      "timestamp": 1700000000466
+    },
+    {
+      "id": 468,
+      "side": "ask",
+      "price": 10166,
+      "quantity": 33,
+      "timestamp": 1700000000467
+    },
+    {
+      "id": 469,
+      "side": "ask",
+      "price": 10075,
+      "quantity": 45,
+      "timestamp": 1700000000468
+    },
+    {
+      "id": 470,
+      "side": "bid",
+      "price": 9883,
+      "quantity": 42,
+      "timestamp": 1700000000469
+    },
+    {
+      "id": 471,
+      "side": "bid",
+      "price": 9940,
+      "quantity": 29,
+      "timestamp": 1700000000470
+    },
+    {
+      "id": 472,
+      "side": "bid",
+      "price": 9945,
+      "quantity": 22,
+      "timestamp": 1700000000471
+    },
+    {
+      "id": 473,
+      "side": "ask",
+      "price": 10152,
+      "quantity": 27,
+      "timestamp": 1700000000472
+    },
+    {
+      "id": 474,
+      "side": "bid",
+      "price": 9970,
+      "quantity": 28,
+      "timestamp": 1700000000473
+    },
+    {
+      "id": 475,
+      "side": "ask",
+      "price": 10220,
+      "quantity": 17,
+      "timestamp": 1700000000474
+    },
+    {
+      "id": 476,
+      "side": "ask",
+      "price": 10089,
+      "quantity": 44,
+      "timestamp": 1700000000475
+    },
+    {
+      "id": 477,
+      "side": "ask",
+      "price": 10067,
+      "quantity": 6,
+      "timestamp": 1700000000476
+    },
+    {
+      "id": 478,
+      "side": "bid",
+      "price": 10027,
+      "quantity": 28,
+      "timestamp": 1700000000477
+    },
+    {
+      "id": 479,
+      "side": "bid",
+      "price": 9860,
+      "quantity": 48,
+      "timestamp": 1700000000478
+    },
+    {
+      "id": 480,
+      "side": "ask",
+      "price": 10083,
+      "quantity": 36,
+      "timestamp": 1700000000479
+    },
+    {
+      "id": 481,
+      "side": "bid",
+      "price": 9900,
+      "quantity": 36,
+      "timestamp": 1700000000480
+    },
+    {
+      "id": 482,
+      "side": "ask",
+      "price": 10221,
+      "quantity": 8,
+      "timestamp": 1700000000481
+    },
+    {
+      "id": 483,
+      "side": "ask",
+      "price": 10140,
+      "quantity": 43,
+      "timestamp": 1700000000482
+    },
+    {
+      "id": 484,
+      "side": "ask",
+      "price": 10234,
+      "quantity": 4,
+      "timestamp": 1700000000483
+    },
+    {
+      "id": 485,
+      "side": "ask",
+      "price": 10203,
+      "quantity": 20,
+      "timestamp": 1700000000484
+    },
+    {
+      "id": 486,
+      "side": "ask",
+      "price": 10076,
+      "quantity": 37,
+      "timestamp": 1700000000485
+    },
+    {
+      "id": 487,
+      "side": "bid",
+      "price": 10011,
+      "quantity": 43,
+      "timestamp": 1700000000486
+    },
+    {
+      "id": 488,
+      "side": "ask",
+      "price": 10107,
+      "quantity": 7,
+      "timestamp": 1700000000487
+    },
+    {
+      "id": 489,
+      "side": "ask",
+      "price": 10192,
+      "quantity": 24,
+      "timestamp": 1700000000488
+    },
+    {
+      "id": 490,
+      "side": "bid",
+      "price": 9855,
+      "quantity": 18,
+      "timestamp": 1700000000489
+    },
+    {
+      "id": 491,
+      "side": "bid",
+      "price": 9941,
+      "quantity": 36,
+      "timestamp": 1700000000490
+    },
+    {
+      "id": 492,
+      "side": "bid",
+      "price": 9895,
+      "quantity": 43,
+      "timestamp": 1700000000491
+    },
+    {
+      "id": 493,
+      "side": "ask",
+      "price": 10057,
+      "quantity": 12,
+      "timestamp": 1700000000492
+    },
+    {
+      "id": 494,
+      "side": "ask",
+      "price": 10229,
+      "quantity": 49,
+      "timestamp": 1700000000493
+    },
+    {
+      "id": 495,
+      "side": "ask",
+      "price": 10136,
+      "quantity": 23,
+      "timestamp": 1700000000494
+    },
+    {
+      "id": 496,
+      "side": "bid",
+      "price": 10004,
+      "quantity": 10,
+      "timestamp": 1700000000495
+    },
+    {
+      "id": 497,
+      "side": "ask",
+      "price": 10067,
+      "quantity": 10,
+      "timestamp": 1700000000496
+    },
+    {
+      "id": 498,
+      "side": "bid",
+      "price": 10027,
+      "quantity": 48,
+      "timestamp": 1700000000497
+    },
+    {
+      "id": 499,
+      "side": "bid",
+      "price": 9954,
+      "quantity": 27,
+      "timestamp": 1700000000498
+    },
+    {
+      "id": 500,
+      "side": "ask",
+      "price": 10137,
+      "quantity": 11,
+      "timestamp": 1700000000499
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[package]
+name = "OrderBookRust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+chrono = "0.4.44"
+serde = { version = "1.0.228", features = ["derive"] }
+serde_json = "1.0.149"
+tokio = { version = "1.46.1", features = ["full"] }
+
+# multiple binaries
+[[bin]]
+name = "server"
+path = "src/bin/server/main.rs"
+
+[[bin]]
+name = "client"
+path = "src/bin/client/main.rs"
+
+[dev-dependencies]
+criterion = { version = "0.8.2", features = ["html_reports"] }
+
+[[bench]]
+name = "order_book"
+harness = false
+
+[features]
+verbose = []
